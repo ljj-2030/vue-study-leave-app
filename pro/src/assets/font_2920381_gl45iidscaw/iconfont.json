@@ -1,0 +1,37 @@
+{
+  "id": "2920381",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "my-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5392441",
+      "name": "上一级",
+      "font_class": "shangyiji",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1727450",
+      "name": "217时间",
+      "font_class": "shijian",
+      "unicode": "e8c5",
+      "unicode_decimal": 59589
+    },
+    {
+      "icon_id": "2471381",
+      "name": "时间日期",
+      "font_class": "shijianriqi",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "4178677",
+      "name": "AK-MN_盾牌_fill",
+      "font_class": "mn_dunpai_fill",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
